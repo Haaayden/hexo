@@ -2,6 +2,9 @@
 title: 在vue及egg中使用socket.io
 date: 2017-07-23 16:20:32
 tags:
+    - faramework
+    - vue
+    - egg
 ---
 # vue-socket.io 及 egg-socket.io 的简单使用
 这是一篇究极文不对题的博客，因为我要介绍的并不是 socket.io 在 vue 以及 egg 的使用。

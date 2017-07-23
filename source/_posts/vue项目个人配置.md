@@ -2,6 +2,7 @@
 title: vue项目个人配置
 date: 2017-07-16 14:39:36
 tags:
+     - vue
 ---
 
 # Vue 自用配置

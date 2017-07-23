@@ -2,6 +2,7 @@
 title: http1
 date: 2017-07-09 15:24:30
 tags:
+    - HTTP
 ---
 # Http 基础知识（一）
 Web 使用一种名为 HTTP (HyperText Transfer Protocol，超文本传输协议)的协议作为规范，完成从客户端到服务器端等一系列运作流程。

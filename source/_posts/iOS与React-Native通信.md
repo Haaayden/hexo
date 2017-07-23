@@ -2,6 +2,8 @@
 title: iOS与React-Native通信
 date: 2017-03-17 09:46:48
 tags:
+  - React Native
+  - iOS
 ---
 # iOS 与 React Native 通信踩坑小结
 公司目前的项目主要使用的 React Native，但是 RN 这么久了还只是在 0.x 徘徊，不可避免有很多缺失的功能需要原生开发，然后嵌入到 RN 中，尤其是一些有我天朝特色的，比如支付宝支付，微信 QQ 等的第三方分享。
