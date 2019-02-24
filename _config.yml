@@ -71,6 +71,8 @@ deploy:
   type: git
   repo: https://github.com/Haaayden/Haaayden.github.io.git
   branch: master
+  name: Haaayden
+  email: brooklyn1984@qq.com
 
 # jsonContent
 jsonContent:
